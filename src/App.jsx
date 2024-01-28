@@ -50,7 +50,7 @@ function App() {
               <div className="flex flex-col gap-4">
                 <div>
                   <input
-                    type="email"
+                    type="text"
                     name="email"
                     id="email"
                     placeholder="Username, or email
